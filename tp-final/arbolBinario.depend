@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1652038919 source:c:\users\nico_\desktop\arbolbinario\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1652038445 c:\users\nico_\desktop\arbolbinario\arbol.h
+
+1652038943 source:c:\users\nico_\desktop\arbolbinario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1697481433 source:c:\users\ignam\desktop\facu\expresion de algoritmos\tp-final\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"arbol.h"
+
+1697478084 c:\users\ignam\desktop\facu\expresion de algoritmos\tp-final\cliente.h
+
+1697480773 source:c:\users\ignam\desktop\facu\expresion de algoritmos\tp-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"cliente.h"
+	"banco.h"
+
+1697480789 c:\users\ignam\desktop\facu\expresion de algoritmos\tp-final\arbol.h
+
+1697480847 source:c:\users\ignam\desktop\facu\expresion de algoritmos\tp-final\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"cliente.h"
+
+1697477524 c:\users\ignam\desktop\facu\expresion de algoritmos\tp-final\banco.h
+	"arbol.h"
+	"cliente.h"
+
+1697477534 source:c:\users\ignam\desktop\facu\expresion de algoritmos\tp-final\banco.c
+	"banco.h"
+	"arbol.h"
+	"cliente.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
